@@ -1,0 +1,15 @@
+{
+	"name": {
+		"message": "Yandex.Images Fast Searcher"
+	},
+	"shortDescr": {
+		"message": "Search for pictures through the context menu with Yandex.Images!"
+	},
+	"fullDescr": {
+		"message": "Do you want to quickly search for pictures through the Yandex search engine, because it is very convenient? This extension will add an additional button to the Context Menu, and you can start searching for images in Yandex.Pictures in just 2 clicks."
+	},
+	"entry": {
+		"message": "Search in Yandex.Images",
+		"description": "Title of button in Context Menu"
+	}
+}

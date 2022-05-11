@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+	"default_locale": "ru",
+    "name": "__MSG_name__",
+	"description": "__MSG_shortDescr__",
+    "version": "0.5",
+	"icons": {
+		"16": "logo.png",
+		"48": "logo.png",
+		"128": "logo.png"
+	},
+    "permissions": [
+		"contextMenus"
+    ],
+    "background": {
+		"scripts": ["yanimg.js"]
+    }
+}
